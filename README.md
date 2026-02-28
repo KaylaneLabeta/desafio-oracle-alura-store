@@ -67,4 +67,4 @@ Este projeto demonstra a aplicação prática de análise de dados para suporte 
 
 Projeto desenvolvido como parte de estudos em Análise de Dados com Python.
 
-Labeta, kaylane.
+Labeta,Kaylane.
